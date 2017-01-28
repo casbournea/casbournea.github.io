@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AC",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 13,
-    "versionPublish": "3.10.5"
+    "uniqCompNum": 17,
+    "versionPublish": "3.11.1"
   },
   "pages": {
     "index.html": {
@@ -62,13 +62,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#181818"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#2a2a2a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#323232"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -90,7 +90,7 @@
           "_name": "menu",
           "_anchor": "menu-1",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#323232",
             "fontSize": "1.25",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -183,13 +183,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#181818"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#2a2a2a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#323232"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -211,7 +211,7 @@
           "_name": "menu",
           "_anchor": "menu-2",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#323232",
             "fontSize": "1.25",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -256,7 +256,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -265,7 +265,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#323232",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -293,6 +293,26 @@
           "text1": "<p>Alison is a classically trained mezzo-soprano who has &nbsp;...</p>",
           "text2": "<p>Alison Cripps began her vocal training in Hong Kong under the direction of Dr Derek Anthony (Doctor of Musical Arts: Peabody Conservatory, Johns Hopkins University, Baltimore). Alison’s background is in opera and oratorio, singing with the Opera Society of Hong Kong, the Hong Kong Academy for Performing Arts and the St John’s Cathedral Choir. Productions include Verdi’s ‘La Traviata’ and Mozart’s ‘Magic Flute’. Solo work continued in the UK performing in Church Services and military events.</p>",
           "text3": "<p>Some other stuff about the future</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "info@alisoncasbourne.co.uk"
         }
       ]
     },
@@ -329,13 +349,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#181818"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#2a2a2a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#323232"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -357,7 +377,7 @@
           "_name": "menu",
           "_anchor": "menu-5",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#323232",
             "fontSize": "1.25",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -405,7 +425,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -442,6 +462,26 @@
           "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "info@alisoncasbourne.co.uk"
         }
       ]
     },
@@ -478,13 +518,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#181818"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#2a2a2a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#323232"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -506,7 +546,7 @@
           "_name": "menu",
           "_anchor": "menu-8",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#323232",
             "fontSize": "1.25",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -551,7 +591,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -585,68 +625,28 @@
             "paddingBottom": 1,
             "bgColor": "#ffedca"
           },
-          "text1": "<p>Alison is available to perform at events both large and small. Whether for a small intimate gathering or a large event with numerous acts, Alsion would be delighted to discuss your needs and see what would work for you.</p><p>In order to be able to quote an accurate performance fee please try to give as much detail as you can to answer the questions set out opposite.</p>",
+          "text1": "<p>Alison is available to perform at events both large and small. Whether for a small intimate gathering or a large event with numerous acts, Alsion would be delighted to discuss your needs and see what would work for you.</p><p>In order to be able to quote an accurate performance fee please give as much detail as you can to answer the questions set out opposite.</p>",
           "text2": "<ul><li>When do you want her to perform - date and time</li><li>How long do you want her to perform for</li><li>Do you have an accompanist or should Alison arrange for one?</li><li>xxx</li><li>xxx</li></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#00074c"
-            }
-          },
-          "_anchor": "form1-b",
+          "_name": "footer1",
+          "_anchor": "footer1-g",
           "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffedca",
+            "bgColor": "#323232",
             "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "pjbuxton@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ALISON</a>"
+          "text": "info@alisoncasbourne.co.uk"
         }
       ]
     }
