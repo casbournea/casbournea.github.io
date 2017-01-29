@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AC",
-    "currentPage": "about.html",
+    "currentPage": "booking.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -621,12 +621,7 @@
             "Theme"
           ],
           "_name": "content6",
-          "_styles": {
-            "P": {
-              "color": "#00074c"
-            }
-          },
-          "_anchor": "content6-c",
+          "_anchor": "content6-u",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
