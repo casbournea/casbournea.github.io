@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AC",
-    "currentPage": "concerts.html",
+    "currentPage": "booking.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -286,7 +286,7 @@
             "bgColor": "#ffedca"
           },
           "text1": "<p>Alison is a classically trained mezzo-soprano who specialises in opera and sacred music, bringing a fresh perspective to well known and loved classical repertoire. Based in the Midlands, Alison is a member of <a href=\"http://operamint.co.uk\" target=\"_blank\">OperaMint</a>, and is mentored by opera singer and teacher <a href=\"http://www.saraclethero.co.uk\" target=\"_blank\">Sara Clethero</a> (Welsh National Opera).</p><p><br></p><p>She began her vocal training in Hong Kong under the direction of Dr Derek Anthony singing with the Opera Society of Hong Kong, the Hong Kong Academy for Performing Arts and the St John’s Cathedral Choir in Verdi’s ‘La Traviata’ and Mozart’s ‘Magic Flute’.</p>",
-          "text2": "<p>In recent years Alison sang as part of a classical vocal duo with soprano Jill Saunders, performing in numerous recitals, concerts, military and charity events. Highlights included being guest artists in the Gentlemen Songsters Male Voice Choir Autumn Concert, 2012, which featured the well known Welsh baritone and TV personality, Aled Jones.&nbsp;</p><p><br></p><p>She has also formed before HRH The Countess of Wessex GCVO during a QARANC Corps Day Service and recently performed in Lichfield Cathedral&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">at a celebration of Whittington Barracks receiving the Freedom of the City. Alison continues to sing regularly in OperaMint concerts recently performing in Kaltern, Italy with the company.&nbsp;</span></p><p><br></p>",
+          "text2": "<p>In recent years Alison sang as part of a classical vocal duo with soprano Jill Saunders, performing in numerous recitals, concerts, military and charity events. Highlights included being guest artists in the <a href=\"http://www.gsmvc.org.uk\" target=\"_blank\">Gentlemen Songsters Male Voice Choir</a> Autumn Concert, 2012, which featured the well known Welsh baritone and TV personality, Aled Jones.&nbsp;</p><p><br></p><p>She has also formed before HRH The Countess of Wessex GCVO during a QARANC Corps Day Service and recently performed in Lichfield Cathedral&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">at a celebration of Whittington Barracks receiving the Freedom of the City. Alison continues to sing regularly in OperaMint concerts recently performing in Kaltern, Italy with the company.&nbsp;</span></p><p><br></p>",
           "text3": "<p>Alison is currently studying the role of Dorabella in Mozart's opera 'Cosi fan tutte' to be performed as part of a summer school programme in The Musicale, Kaltern, July 2017. She will also be performing in a recital and other concerts as part of this event.&nbsp;</p><p><br></p><p>Alison is passionate about bringing classical music to the mainstream so that it is accessible to all. She sings with a voice of true expression, character and emotion and always aims to leave her audiences wanting more.</p>"
         },
         {
@@ -632,8 +632,8 @@
             "paddingBottom": 1,
             "bgColor": "#ffedca"
           },
-          "text1": "<p>Alison is available to perform at events both large and small. Whether for a small intimate gathering or a large event with numerous acts, Alsion would be delighted to discuss your needs and see what would work for you.</p><p>In order to be able to quote an accurate performance fee please give as much detail as you can to answer the questions set out opposite.</p>",
-          "text2": "<ul><li>When do you want her to perform - date and time?</li><li>Where is the event?</li><li>How long do you want her to perform?</li><li>Do you have an accompanist or should Alison arrange for one?</li><li>xxx?</li><li>xxx?</li></ul>"
+          "text1": "<p>Alison is available to perform at events both large and small. Whether for a small intimate gathering or a large event with numerous acts, Alsion would be delighted to discuss your needs and see what would work for you.</p><p>In order to be able to quote an accurate performance fee please give as much detail as you can to answer these questions.</p>",
+          "text2": "<ul><li>When do you want her to perform - date and time?</li><li>What is the nature of the event?</li><li>Where is the event?</li><li>How long do you want her to perform?</li><li>Do you have an accompanist or should Alison arrange for one?</li></ul>"
         },
         {
           "_tags": [
@@ -652,7 +652,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffedca"
           },
-          "text": "Alison can be contacted by email info@alisoncasbourne.co.uk or by telephone on xxxx xxxxxx"
+          "text": "Alison can be contacted by email info@alisoncasbourne.co.uk or by telephone on 07949 376475"
         },
         {
           "_tags": [
@@ -836,7 +836,7 @@
             "bgColor": "#ffedca"
           },
           "text1": "<ul><li>Mon coeur s'ouvre a ta voix - Samson et Dalila - Saint-Saens&nbsp;</li><li>Deh per questo istante solo - La clemenza di Tito - Mozart</li><li>L'amour est un oiseau rebelle - Carmen - Bizet</li><li>Je Te Veux- Erik Satie&nbsp;</li><li>My Sweet Repose - Du bist de Ruh - Schubert</li><li>Cradle Song - Guten abend, gute nacht - Brahms&nbsp;</li></ul>",
-          "text2": "<ul><li>Climb Ev'ry Mountain - The Sound of Music - Rodgers and Hammerstein&nbsp;</li><li>Over the Rainbow - The Wizard of Oz - Arlen and Harburg</li><li>You'll never walk alone - Carousel - Rodgers and Hammerstein&nbsp;</li></ul>"
+          "text2": "<ul><li>We'll gather lilacs in the Spring - Perchance to Dream - Ivor Novello&nbsp;</li><li>Climb Ev'ry Mountain - The Sound of Music - Rodgers and Hammerstein&nbsp;</li><li>Over the Rainbow - The Wizard of Oz - Arlen and Harburg</li><li>You'll never walk alone - Carousel - Rodgers and Hammerstein&nbsp;</li></ul>"
         },
         {
           "_tags": [
