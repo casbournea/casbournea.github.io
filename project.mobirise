@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AC",
-    "currentPage": "booking.html",
+    "currentPage": "concerts.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 25,
+    "uniqCompNum": 30,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -279,20 +279,15 @@
             "Theme"
           ],
           "_name": "content7",
-          "_styles": {
-            "P": {
-              "color": "#00074c"
-            }
-          },
-          "_anchor": "content7-4",
+          "_anchor": "content7-p",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffedca"
           },
-          "text1": "<p>Alison is a classically trained mezzo-soprano who has &nbsp;...</p>",
-          "text2": "<p>Alison Cripps began her vocal training in Hong Kong under the direction of Dr Derek Anthony (Doctor of Musical Arts: Peabody Conservatory, Johns Hopkins University, Baltimore). Alison’s background is in opera and oratorio, singing with the Opera Society of Hong Kong, the Hong Kong Academy for Performing Arts and the St John’s Cathedral Choir. Productions include Verdi’s ‘La Traviata’ and Mozart’s ‘Magic Flute’. Solo work continued in the UK performing in Church Services and military events.</p>",
-          "text3": "<p>Some other stuff about the future</p>"
+          "text1": "<p>Alison is a classically trained mezzo-soprano who specialises in opera and sacred music, bringing a fresh perspective to well known and loved classical repertoire. Based in the Midlands, Alison is a member of <a href=\"http://operamint.co.uk\" target=\"_blank\">OperaMint</a>, and is mentored by opera singer and teacher <a href=\"http://www.saraclethero.co.uk\" target=\"_blank\">Sara Clethero</a> (Welsh National Opera).</p><p><br></p><p>She began her vocal training in Hong Kong under the direction of Dr Derek Anthony singing with the Opera Society of Hong Kong, the Hong Kong Academy for Performing Arts and the St John’s Cathedral Choir in Verdi’s ‘La Traviata’ and Mozart’s ‘Magic Flute’.</p>",
+          "text2": "<p>In recent years Alison sang as part of a classical vocal duo with soprano Jill Saunders, performing in numerous recitals, concerts, military and charity events. Highlights included being guest artists in the Gentlemen Songsters Male Voice Choir Autumn Concert, 2012, which featured the well known Welsh baritone and TV personality, Aled Jones.&nbsp;</p><p><br></p><p>She has also formed before HRH The Countess of Wessex GCVO during a QARANC Corps Day Service and recently performed in Lichfield Cathedral&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">at a celebration of Whittington Barracks receiving the Freedom of the City. Alison continues to sing regularly in OperaMint concerts recently performing in Kaltern, Italy with the company.&nbsp;</span></p><p><br></p>",
+          "text3": "<p>Alison is currently studying the role of Dorabella in Mozart's opera 'Cosi fan tutte' to be performed as part of a summer school programme in The Musicale, Kaltern, July 2017. She will also be performing in a recital and other concerts as part of this event.&nbsp;</p><p><br></p><p>Alison is passionate about bringing classical music to the mainstream so that it is accessible to all. She sings with a voice of true expression, character and emotion and always aims to leave her audiences wanting more.</p>"
         },
         {
           "_tags": [
@@ -447,21 +442,33 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content7",
-          "_styles": {
-            "P": {
-              "color": "#00074c"
-            }
-          },
-          "_anchor": "content7-7",
+          "_name": "content1",
+          "_anchor": "content1-s",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffedca"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "<p>Alison will be performing in the following concerts in 2017 - details to be announced:</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffedca"
+          },
+          "text1": "<ul><li>Recital - Kaltern, Italy - July 2017&nbsp;</li><li>Additional concerts - Kaltern, Italy - 24-28 July 2017</li></ul><p><br></p>",
+          "text2": "<ul><li>Guest Artist - Bell Quattro concert 14 October 2017 - Beeston Parish Church, Nottingham&nbsp;</li></ul>"
         },
         {
           "_tags": [
@@ -633,19 +640,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "font-size": "17px"
+            }
+          },
           "_anchor": "content1-h",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffedca"
           },
-          "text": "Alison can be contacted by email info@alisoncasbourne.co.uk or by telephone on xxxx xxxxxx",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "font-size": "17px"
-            }
-          }
+          "text": "Alison can be contacted by email info@alisoncasbourne.co.uk or by telephone on xxxx xxxxxx"
         },
         {
           "_tags": [
@@ -810,7 +817,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffedca"
           },
-          "text": "Alison has a wide repertoire of classical, opera and cross-over music that can be put together to create a unique recital to suit any occaision.The following is a small sample of her repertoire."
+          "text": "Alison has a wide repertoire of classical, opera and cross-over music that can be put together to create a unique recital to suit any occaision. The following is a small sample of her repertoire."
         },
         {
           "_tags": [
@@ -828,8 +835,26 @@
             "paddingBottom": 1,
             "bgColor": "#ffedca"
           },
-          "text1": "<ul><li>Mon coeur s'ouvre á ta voix -Samson et Dalila</li><li>Gather lilacs</li></ul>",
-          "text2": "<ul><li>More examples</li><li>And somemore</li></ul>"
+          "text1": "<ul><li>Mon coeur s'ouvre a ta voix - Samson et Dalila - Saint-Saens&nbsp;</li><li>Deh per questo istante solo - La clemenza di Tito - Mozart</li><li>L'amour est un oiseau rebelle - Carmen - Bizet</li><li>Je Te Veux- Erik Satie&nbsp;</li><li>My Sweet Repose - Du bist de Ruh - Schubert</li><li>Cradle Song - Guten abend, gute nacht - Brahms&nbsp;</li></ul>",
+          "text2": "<ul><li>Climb Ev'ry Mountain - The Sound of Music - Rodgers and Hammerstein&nbsp;</li><li>Over the Rainbow - The Wizard of Oz - Arlen and Harburg</li><li>You'll never walk alone - Carousel - Rodgers and Hammerstein&nbsp;</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffedca"
+          },
+          "text": "<p><a href=\"booking.html\">Contact Alison</a> to discuss your individual requirements or to see example selections.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [

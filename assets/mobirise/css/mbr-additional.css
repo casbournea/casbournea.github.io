@@ -537,9 +537,6 @@ h6,
 #msg-box8-3 p {
   color: #fff;
 }
-#content7-4 P {
-  color: #00074c;
-}
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -608,8 +605,8 @@ h6,
 #msg-box8-6 .lead P {
   color: #ffffff;
 }
-#content7-7 P {
-  color: #00074c;
+#content1-s P {
+  text-align: center;
 }
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
@@ -754,4 +751,7 @@ h6,
 }
 #content6-m P {
   color: #00074c;
+}
+#content1-r P {
+  text-align: center;
 }
